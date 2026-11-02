@@ -1,4 +1,4 @@
-[divyhtml.html](https://github.com/user-attachments/files/34287648/divyhtml.html)
+
 
 <!DOCTYPE html>
 <html lang="en">
